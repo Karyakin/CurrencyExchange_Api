@@ -1,0 +1,5 @@
+C:\Users\d.karyakin\Desktop\СurrencyExchangeCopy\Contracts\bin\Release\netcoreapp3.1\publish\Contracts.dll
+C:\Users\d.karyakin\Desktop\СurrencyExchangeCopy\Contracts\bin\Release\netcoreapp3.1\publish\Contracts.deps.json
+C:\Users\d.karyakin\Desktop\СurrencyExchangeCopy\Contracts\bin\Release\netcoreapp3.1\publish\Contracts.pdb
+C:\Users\d.karyakin\Desktop\СurrencyExchangeCopy\Contracts\bin\Release\netcoreapp3.1\publish\Entities.dll
+C:\Users\d.karyakin\Desktop\СurrencyExchangeCopy\Contracts\bin\Release\netcoreapp3.1\publish\Entities.pdb

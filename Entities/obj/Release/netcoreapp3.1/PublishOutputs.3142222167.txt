@@ -1,0 +1,3 @@
+C:\Users\d.karyakin\Desktop\СurrencyExchangeCopy\Entities\bin\Release\netcoreapp3.1\publish\Entities.dll
+C:\Users\d.karyakin\Desktop\СurrencyExchangeCopy\Entities\bin\Release\netcoreapp3.1\publish\Entities.deps.json
+C:\Users\d.karyakin\Desktop\СurrencyExchangeCopy\Entities\bin\Release\netcoreapp3.1\publish\Entities.pdb
