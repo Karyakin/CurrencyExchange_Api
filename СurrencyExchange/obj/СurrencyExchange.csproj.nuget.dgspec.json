@@ -241,10 +241,6 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.0, )"
-            },
-            "Microsoft.Extensions.Http": {
-              "target": "Package",
-              "version": "[3.1.9, )"
             }
           },
           "imports": [
@@ -331,9 +327,9 @@
               "target": "Package",
               "version": "[3.1.9, )"
             },
-            "Microsoft.Extensions.Http": {
+            "NUnit": {
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[3.13.0, )"
             }
           },
           "imports": [

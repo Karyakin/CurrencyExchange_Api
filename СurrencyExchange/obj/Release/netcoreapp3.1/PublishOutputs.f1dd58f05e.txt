@@ -9,16 +9,8 @@ C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Relea
 C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\СurrencyExchange.pdb
 C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\AutoMapper.dll
 C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.dll
-C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Http.dll
-C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.dll
-C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
-C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Primitives.dll
 C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\NLog.dll
 C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\NLog.Extensions.Logging.dll
 C:\Users\d.karyakin\Desktop\СurrencyExchangePublish\СurrencyExchange\obj\Release\netcoreapp3.1\PubTmp\Out\Contracts.dll

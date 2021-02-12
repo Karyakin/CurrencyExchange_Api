@@ -38,6 +38,7 @@ namespace Services
                 onDate = DateTime.Now;
             try
             {
+                _logger.LogInfo($"Обращение к контроллеру ExchangeService, дата:{DateTime.Now}");
                 if (!periodicity.HasValue || periodicity.Value < 0 || periodicity.Value > 1)
                     periodicity = 0;
                 //|в appsettings.Development.json можно было положить адрес до вертикальной черты
